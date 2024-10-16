@@ -1,0 +1,21 @@
+TIP101: UMPIRE
+
+Understand
+
+It's important to communicate how you are thinking about solving this problem. We can do this by:
+
+1. Ask clarifying questions.
+2. Generate basic sample input and output.
+3. Explore more unusual edge cases.
+4. Explore tradeoffs (memory, performance, simplicity).
+
+
+Plan:
+
+Describe overall approach in 1-2 sentences. 
+
+Write out pseudocode.
+
+
+Implement:
+
